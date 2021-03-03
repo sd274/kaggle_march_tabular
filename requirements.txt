@@ -1,3 +1,5 @@
 git+https://github.com/sd274/pipeline_tools.git
 jupyter
 xgboost
+autopep8
+matplotlib
