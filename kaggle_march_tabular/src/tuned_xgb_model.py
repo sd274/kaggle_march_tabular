@@ -55,6 +55,8 @@ class TunedXGBModelConfig(TabularModelConfigBase):
             **{f'learn__{key}': value for key, value in best_params.items()}
         )
 
+        self.model.fit(X, y)
+        save_name = ''
         if save:
             save_name = self.save_model()
 
