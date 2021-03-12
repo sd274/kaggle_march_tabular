@@ -1,0 +1,3 @@
+validation_name,timestamp,accuracy,score
+train test split state of 42,2021-03-09 17:44:25.872138,0.8,0.8411837100022376
+train test split state of 42,2021-03-09 17:51:22.639136,0.8487,0.8902398219799369

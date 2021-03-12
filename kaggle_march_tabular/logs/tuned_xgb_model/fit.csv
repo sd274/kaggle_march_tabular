@@ -1,0 +1,2 @@
+timestamp,auc_score,fit_notes,save,save_name,best_params
+2021-03-11 21:30:03.890546,0.8981686105294672,train test split state of 42,True,model_20210311212951.joblib,"dict_items([('lambda', 8.942291081642345), ('alpha', 0.0011881143602617023), ('colsample_bytree', 0.4), ('subsample', 0.8), ('learning_rate', 0.03), ('n_estimators', 270), ('max_depth', 20), ('random_state', 2020), ('min_child_weight', 39)])"
